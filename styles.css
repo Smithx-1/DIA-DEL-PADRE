@@ -1,0 +1,51 @@
+* {
+ background-color: rgb(78, 181, 170);   
+}
+
+.button1 {
+ font-size: 50px;
+}
+
+.button2 { 
+font-size: 59px; 
+
+}
+
+
+.titulo {
+ text-align: center;
+}
+.espacio1 {
+ text-align: center;  
+}
+
+.titulo01 {
+text-align: center;
+}
+
+.titulo01 {
+font: size 40px;
+
+}
+
+.corazon {width: 650px;
+
+}
+
+.corazon {
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+
+
+}
+
+.parati {
+    text-align: center;
+
+}
+
+.para {
+  text-align: center;
+}
